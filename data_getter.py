@@ -39,6 +39,9 @@ def manage_scrape_process(tickers):
 
 if __name__ == '__main__':
 
+    url = 'https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv'
+    df = pd.read_csv(url, index_col=0)
+
     manage_scrape_process(tickers)
 
 
