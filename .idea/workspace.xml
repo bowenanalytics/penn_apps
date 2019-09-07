@@ -1,301 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f0e91ea-81ce-4824-b4f4-7b85f666ada3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000102909-99-000002.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000102909-99-000012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-00-000007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-00-000473.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-00-000610.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-00-000734.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-01-000025.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-01-000549.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-02-000708.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-02-000830.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-03-000040.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-03-000442.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-03-000646.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-03-000785.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-04-000040.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-04-000522.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-04-000674.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-04-001209.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-05-000060.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-05-000803.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-05-001151.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-05-001624.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-06-000027.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-06-000840.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-06-001125.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-06-001612.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-07-000237.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-07-000821.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-07-001063.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-07-001581.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-08-000669.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-08-001171.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-08-001432.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-08-001959.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-09-000120.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-09-001046.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-09-001347.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-09-001802.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-10-001270.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-10-002093.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-10-002393.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-10-003332.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-11-000241.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-11-002625.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-11-003136.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-11-003915.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-12-000904.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-12-004545.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-12-005055.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-12-005634.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-13-001106.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-13-006253.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000932471-99-000475.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-13-006181.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-13-008549.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-14-001756.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-14-005578.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-14-008218.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-14-011471.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-15-001662.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-15-005854.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-15-008811.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-15-011224.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-16-013563.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-16-016978.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-16-019102.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-16-022127.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-17-002379.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-17-004736.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-17-007433.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-17-010861.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-18-002112.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-18-005610.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-18-008557.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-18-011769.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0000950123-19-001986.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0001144204-19-026247.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-HR/0001144204-19-039761.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-NT/0000932471-01-500220.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-NT/0000932471-01-500377.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-NT/0000932471-02-000021.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/102909/13F-NT/0000932471-02-000584.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-17-000006.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-17-000067.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-18-000005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-18-000067.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-18-000098.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-18-000142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000002.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000026.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000032.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000063.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0000320193-19-000073.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-001648.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-002905.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-012760.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-030938.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-031354.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-040672.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-056111.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-07-076142.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001104659-15-019336.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-08-002372.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-08-003342.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-08-037620.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-08-050059.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-09-003017.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-09-012161.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-09-028400.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-09-037492.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-10-016054.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-10-056327.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-11-003847.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-11-036782.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-11-047179.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-11-051976.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-11-056354.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-12-032458.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-12-038301.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-13-041847.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-13-050140.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001181431-14-021923.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-08-009715.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-08-088001.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-08-154381.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-08-213642.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-09-009009.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-09-084599.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-09-152290.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-09-209633.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-10-012096.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-10-044765.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-10-087786.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-10-161807.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-10-230992.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-11-009392.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-11-045411.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-11-103732.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-11-191368.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-11-273826.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-12-021833.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-12-081892.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-12-178928.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-12-312355.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-12-435506.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-020783.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-085842.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-167458.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-167469.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-170623.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-199324.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-267629.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-298914.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-13-413498.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-022238.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-084697.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-154871.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-154883.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-184969.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-228798.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-271698.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-275598.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-277193.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-376361.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-14-406296.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-021857.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-023732.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-039270.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-149590.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-149607.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-186064.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-219298.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-258464.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-273023.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-322466.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-336615.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-354756.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-406279.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-15-410853.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-438421.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-473562.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-488223.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-516891.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-556520.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-628957.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-16-672044.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-036283.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-064019.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-069853.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-167400.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-181867.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-208226.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-262261.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-282809.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-308859.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-17-341015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-18-045761.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-18-154515.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001193125-18-154948.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001628280-16-017762.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001628280-16-020258.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001628280-16-022047.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001628280-17-000663.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/8-K/0001628280-17-004663.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000312069-06-000990.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000315066-02-000409.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000315066-05-000389.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000315066-10-001412.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000315066-95-002900.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000315066-98-001667.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000320193-96-000003.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000812295-00-000024.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000812295-03-000017.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000820027-97-000147.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000897226-04-000117.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000913414-05-000073.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000913414-06-000310.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000918983-94-000005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000932471-15-003679.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000950128-99-000340.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000950129-01-000701.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0000950144-00-001378.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0001047469-99-005928.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0001086364-10-006981.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SC 13G/0001193125-19-041014.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-14-217311.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-15-045292.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-16-523320.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-17-159397.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-18-073716.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/AAPL/SD/0001193125-19-041571.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0000891020-94-000175.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0000891020-95-000433.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0000891020-96-001130.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001017062-97-001764.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001032210-00-001961.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001032210-01-501099.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001032210-02-001351.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001032210-98-001067.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001032210-99-001375.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-03-045632.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-04-150689.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-05-174825.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-06-180008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-07-170817.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-08-162768.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-09-158735.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-10-171791.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-11-200680.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-12-316848.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-13-310206.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-14-289961.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-15-272806.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001193125-16-662209.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001564590-17-014900.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001564590-18-019062.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/MSFT/10-K/0001564590-19-027952.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-08-019208.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-08-113141.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-08-176170.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-09-022518.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-09-100928.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-09-159678.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-10-020834.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-10-102602.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-10-172477.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-11-021871.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-11-128562.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001193125-11-202235.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001384108-12-000004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001384108-12-000008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001384108-13-000004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-13-000004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-13-000007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-14-000005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-14-000008.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-14-000012.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-15-000003.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-15-000007.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-15-000010.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-16-000015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-16-000022.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-16-000039.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-17-000011.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-17-000028.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-17-000037.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-18-000009.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-18-000020.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-18-000034.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-19-000005.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-19-000017.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001403161-19-000030.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sec_edgar_filings/V/10-Q/0001445305-12-000234.txt" beforeDir="false" />
+    <list default="true" id="0f0e91ea-81ce-4824-b4f4-7b85f666ada3" name="Default Changelist" comment="cleaned">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -308,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -416,13 +124,27 @@
       <option name="presentableId" value="Default" />
       <updated>1567865494890</updated>
     </task>
+    <task id="LOCAL-00001" summary="cleaned">
+      <created>1567876397701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567876397701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="cleaned">
+      <created>1567876630409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567876630409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -440,6 +162,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cleaned" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -495,8 +221,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_getter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="252">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
