@@ -3,10 +3,14 @@ import yfinance as yf
 # from sec_edgar_downloader import Downloader
 import requests
 from bs4 import BeautifulSoup
+import io
 
-BASE_URL = """https://finance.yahoo.com/quote/"""
-END_URL = """/profile?ltr=1"""
-tickers = ['MSFT', 'AMZN', 'FB']
+
+BASE_URL = 'https://finance.yahoo.com/quote/'
+END_URL = '/profile?ltr=1'
+TICKERS_LIST_SAMPLE = ['MSFT', 'AMZN', 'FB']
+TICKER_LIST_URL = 'https://raw.githubusercontent.com/bowenanalytics/penn_apps/master/yahoo_tickers.csv'
+
 
 def scrape_business_description(ticker):
     url = BASE_URL + ticker + END_URL
@@ -14,17 +18,20 @@ def scrape_business_description(ticker):
     print('Attempting to scrape business description for ticker {}...'
           .format(ticker))
     with requests.Session() as s:
-        r = s.get(url)
-        data = r.text
-        bs = BeautifulSoup(data, features='html.parser')
-        results = bs.find_all('section', class_='quote-sub-section Mt(30px)')
-        bd = results[0].find('p').text
+        try:
+            r = s.get(url)
+            data = r.text
+            bs = BeautifulSoup(data, features='html.parser')
+            results = bs.find_all('section', class_='quote-sub-section Mt(30px)')
+            bd = results[0].find('p').text
+        except:
+            print('No business description found for {}'.format(ticker))
 
     print('Successfully scraped')
     return bd
 
 def manage_scrape_process(tickers):
-    data = {'ticker' : [], 'business_description' : []}
+    data = {'ticker': [], 'business_description': []}
     for t in tickers:
         bd = scrape_business_description(t)
         data['ticker'].append(t)
@@ -39,10 +46,11 @@ def manage_scrape_process(tickers):
 
 if __name__ == '__main__':
 
-    url = 'https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv'
-    df = pd.read_csv(url, index_col=0)
 
+    df = pd.read_csv(TICKER_LIST_URL, index_col=0).reset_index()
+    tickers = df[df['Exchange'] == 'NYQ'].reset_index()[:10]['Ticker'].tolist()
     manage_scrape_process(tickers)
+
 
 
 
