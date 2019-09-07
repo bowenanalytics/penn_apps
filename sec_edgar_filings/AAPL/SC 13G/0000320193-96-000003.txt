@@ -1,0 +1,241 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wo6SQIfXjejfP0pRQQDLJQEpJ/V39uSHyHscBifawL+7e80eBx1/2kWgJxezw4bp
+ M7bSPlAEQVsZ3ej3xWU53A==
+
+<SEC-DOCUMENT>0000320193-96-000003.txt : 19960216
+<SEC-HEADER>0000320193-96-000003.hdr.sgml : 19960216
+ACCESSION NUMBER:		0000320193-96-000003
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19960213
+SROS:			NASD
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GENERAL MAGIC INC
+		CENTRAL INDEX KEY:			0000933524
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770250147
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-45293
+		FILM NUMBER:		96517380
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 N MARY AVE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+		BUSINESS PHONE:		4087744000
+
+	MAIL ADDRESS:	
+		STREET 1:		420 N MARY AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94086
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20525 MARIANI AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+
+                                        
+                                        
+                       SECURITIES AND EXCHANGE COMMISSION
+                                        
+                             Washington, D.C.  20549
+                                        
+                                  SCHEDULE 13G
+                    Under the Securities Exchange Act of 1934
+                              (Amendment No. ____)
+                                        
+                               General Magic, Inc.
+                                 Name of Issuer
+                                        
+                                  Common Stock
+                          Title of Class of Securities
+                                        
+                                   370 253 106
+                                  CUSIP Number
+                                        
+                                        
+Check the following box if a fee is being paid with this statement.  (A fee
+is  not required only if the filing person: (1) has a previous statement on
+file  reporting beneficial ownership of more than five percent of the class
+of  securities  described  in  Item 1;  and  (2)  has  filed  no  amendment
+subsequent thereto reporting beneficial ownership of five percent  or  less
+of such class.)  (See Rule 13b-17.)
+
+     [    X   ]
+
+1.   Name and I.R.S. Identification No. of Reporting Person:
+
+     Apple Computer, Inc.
+     94-2404110
+
+2.   Member of a Group:  (a)  N/A
+                         (b)  N/A
+
+3.   SEC Use Only:
+
+4.   Place of Organization:  State of California
+
+    Number of    5.  Sole Voting Power          2,700,000
+       Shares                       
+ Beneficially    6.  Shared Voting Power        0
+        Owned    
+      by Each    7.  Sole Dispositive Power     2,700,000
+    Reporting    
+       Person    8.  Shared Dispositive Power:  0
+      with...    
+
+9.   Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+     2,700,000 shares of Common Stock
+
+10.  Aggregate Amount in Row 9. Excludes Certain Shares:
+
+     Not Applicable.
+
+11.  Percent of Class Represented by Amount in Row 9:  10.5%  (based on
+     25,598,318 shares outstanding as of October 31, 1995 as reported in
+     Issuer's Form 10-Q for the quarter ended September 30, 1995.)
+
+12.  Type of Reporting Person:     CO
+
+Item 1(a).     Name of Issuer:
+
+               General Magic, Inc.
+
+Item 1(b).     Address of Issuer's Executive Offices:
+
+               420 N. Mary Avenue
+               Sunnyvale, CA  94086
+          
+Item 2(a).     Name of Person Filing:
+
+               Apple Computer, Inc.
+
+Item 2(b).     Address of Principal Business Office:
+
+               1 Infinite Loop
+               Cupertino, California  95014
+
+Item 2(c).     Citizenship:
+
+               A corporation organized under the laws of the State of
+               California.
+
+Item 2(d).     Title of Class of Securities:
+
+               Common Stock
+
+Item 2(e).     CUSIP Number:
+
+               370 253 106
+
+Item 3.        Not Applicable.
+
+Item 4.        Ownership:
+
+         a.  Amount Beneficially Owned:     2,700,000 shares
+
+         b.    Percent  of  Class:   10.5%  (based  on  25,598,318  shares
+          outstanding  as of October 31, 1995 as reported in Issuer's  Form
+          10-Q for the quarter ended September 30, 1995.)
+
+         c.  Number of Shares as to which such person has:
+          i. Sole  power to vote or direct the vote: 2,700,000 shares
+          ii. Shared power to vote or to direct the vote:  0
+          iii. Sole power to dispose or to direct disposition: 2,700,000 shares
+          iv.  Shared power to dispose or to direct disposition: 0
+
+Item 5.   Ownership of Five Percent or Less of a Class:
+
+          Not Applicable.
+
+Item 6.   Ownership of More than Five Percent on behalf of Another Person:
+
+          Not Applicable.
+
+Item  7.    Identification  and  Classification  of  the  Subsidiary  which
+Acquired the Security being reported on or by the  Parent  Holding Company:
+
+          Not Applicable.
+
+Item 8.   Identification and Classification of Members of the Group:
+
+          Not Applicable.
+
+Item 9.   Notice of Dissolution of Group:
+
+          Not Applicable.
+
+Item 10.  Certification:
+
+      By signing below, Apple Computer, Inc. certifies that, to the best of
+its knowledge and belief, the securities referred to above were acquired in
+the  ordinary course of business and were not acquired for the  purpose  of
+and  do  not have the effect of changing or influencing the control of  the
+issuer of such securities and were not acquired in connection with or as  a
+participant in any transaction having such purpose or effect.
+                                    
+
+
+
+                                   SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify  that the information set forth in this statement is true, complete
+and correct.
+
+                              APPLE COMPUTER, INC.
+
+
+
+                              By:  _/s/ Peter M. Moldave___________
+                                 Peter M. Moldave
+                                 Assistant Secretary
+Date:     February 6, 1996
+
+As of December 31, 1995
+
+
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,369 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HcNcQCrqcOf/JpGMU3+J8Z1EWPhAiiLJ20Q8Z1TP1zysSHrON0cJ9bDk1Xph6Avf
+ y13Qb+h9DMQ4by7bfY2PvA==
+
+<SEC-DOCUMENT>0000812295-00-000024.txt : 20000216
+<SEC-HEADER>0000812295-00-000024.hdr.sgml : 20000216
+ACCESSION NUMBER:		0000812295-00-000024
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20000215
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		545073
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JANUS CAPITAL CORP
+		CENTRAL INDEX KEY:			0000812295
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 FILLMORE STREET SUITE 300
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206-4923
+		BUSINESS PHONE:		3033333863
+
+	MAIL ADDRESS:	
+		STREET 1:		100 FILLMORE STREET SUITE 300
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80206-4923
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+<PAGE>
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+SCHEDULE 13G
+Under the Securities Exchange Act of 1934
+
+
+
+Amendment No.:  *
+
+
+Name of Issuer: Apple Computer, Inc.
+
+
+Title of Class of Securities:  Common Stock
+
+
+CUSIP Number:  03783310-0
+
+
+
+*The remainder of this cover page shall be filled out for a reporting
+person's initial filing on this form with respect to the subject class of
+securities, and for any subsequent amendment containing information which
+would alter the disclosures provided in a prior cover page.
+
+The information required in the remainder of this cover page shall not be
+deemed to be "filed" for the purpose of Section 18 of the Securities Exchange
+Act of 1934 ("Act") or otherwise subject to the liabilities of that section
+of the Act but shall be subject to all other provisions of the Act (however,
+see the Notes).
+<PAGE>
+CUSIP No.: 03783310-0                            Page 2 of 8
+
+1.  NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+         Janus Capital Corporation
+         EIN #84-0765359
+
+2.  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+         a.   ___
+         b.   _X_
+
+3.  SEC USE ONLY
+
+4.  CITIZENSHIP OR PLACE OF ORGANIZATION
+         Colorado
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+    5.   SOLE VOTING POWER
+              9,987,470**
+
+    6.   SHARED VOTING POWER
+              -0-
+
+    7.   SOLE DISPOSITIVE POWER
+              9,987,470**
+
+    8.   SHARED DISPOSITIVE POWER
+              -0-
+
+9.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         9,987,470**
+
+10. CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+         N/A
+
+11. PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+         6.1%**
+
+12. TYPE OF REPORTING PERSON
+         IA, CO
+
+**  See Item 4 of this filing
+<PAGE>
+CUSIP No.:  03783310-0                           Page 3 of 8
+
+1.  NAME OF REPORTING PERSON
+         S.S. OR I.R.S. IDENTIFICATION NO. OF ABOVE PERSON
+         Thomas H. Bailey
+
+2.  CHECK THE APPROPRIATE BOX IF A MEMBER OF A GROUP
+         a.   ___
+         b.   _X_
+
+3.  SEC USE ONLY
+
+4.  CITIZENSHIP OR PLACE OF ORGANIZATION
+         USA
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING PERSON WITH:
+
+    5.   SOLE VOTING POWER
+              9,987,470**
+
+    6.   SHARED VOTING POWER
+              -0-
+
+    7.   SOLE DISPOSITIVE POWER
+              9,987,470**
+
+    8.   SHARED DISPOSITIVE POWER
+              -0-
+
+9.  AGGREGATE AMOUNT BENEFICIALLY OWNED BY EACH REPORTING PERSON
+         9,987,470**
+
+10. CHECK BOX IF THE AGGREGATE AMOUNT IN ROW (9) EXCLUDES CERTAIN SHARES
+         N/A
+
+11. PERCENT OF CLASS REPRESENTED BY AMOUNT IN ROW (9)
+         6.1%**
+
+12. TYPE OF REPORTING PERSON
+         IN
+**  See Item 4 of this filing
+<PAGE>
+SCHEDULE 13G                                          Page 4 of 8
+
+Item 1.
+
+    (a). Name of Issuer: Apple Computer, Inc. ("Apple Computer")
+
+    (b). Address of Issuer's Principal Executive Offices:
+
+         1 Infinite Loop
+         Cupertino, CA 95014
+
+Item 2.
+
+    (a).-(c). Name, Principal Business Address, and Citizenship of Persons
+              Filing:
+
+         (1)  Janus Capital Corporation ("Janus Capital")
+              100 Fillmore Street
+              Denver, Colorado  80206-4923
+              Citizenship:  Colorado
+
+         (2)  Thomas H. Bailey ("Mr. Bailey")
+              100 Fillmore Street
+              Denver, Colorado  80206-4923
+              Citizenship:  USA
+
+    (d). Title of Class of Securities:  Common Stock
+
+    (e). CUSIP Number:  03783310-0
+
+Item 3.
+
+    Janus Capital is an Investment Adviser registered under Section 203 of the
+    Investment Advisers Act of 1940.<PAGE>
+SCHEDULE 13G                                          Page 5 of 8
+
+Item 4.  Ownership
+
+         The information in items 1 and 5 through 11 on the cover pages (pp. 2-
+         3) on Schedule 13G is hereby incorporated by reference.
+
+         Janus Capital is a registered investment adviser which furnishes
+         investment advice to several investment companies registered under
+         Section 8 of the Investment Company Act of 1940 and individual and
+         institutional clients (collectively referred to herein as "Managed
+         Portfolios").  As a result of its role as investment adviser or sub-
+         adviser to the Managed Portfolios, Janus Capital may be deemed to be
+         the beneficial owner of the shares of Apple Computer Common Stock held
+         by such Managed Portfolios.  However, Janus Capital does not have the
+         right to receive any dividends from, or the proceeds from the sale of,
+         the securities held in the Managed Portfolios and disclaims any
+         ownership associated with such rights.
+
+         Mr. Bailey owns approximately 12.2% of Janus Capital.  In addition to
+         being a stockholder of Janus Capital, Mr. Bailey serves as President
+         and Chairman of the Board of Janus Capital and is filing this joint
+         statement with Janus Capital as a result of such stock ownership and
+         positions which may be deemed to enable him to exercise control over
+         Janus Capital.  Mr. Bailey does not own of record any shares of Apple
+         Computer Common Stock and he has not engaged in any transaction in
+         Apple Computer Common Stock.  However, as a result of his position,
+         Mr. Bailey may be deemed to have the power to exercise or to direct
+         the exercise of such voting and/or dispositive power that Janus
+         Capital may have with respect to Apple Computer Common Stock held by
+         the Managed Portfolios.  All shares reported herein have been acquired
+         by the Managed Portfolios, and Mr. Bailey specifically disclaims
+         beneficial ownership over any shares of Apple Computer Common Stock
+         that he or Janus Capital may be deemed to beneficially own.
+         Furthermore, Mr. Bailey does not have the right to receive any
+         dividends from, or the proceeds from the sale of, the securities held
+         in the Managed Portfolios and disclaims any ownership associated with
+         such rights.<PAGE>
+SCHEDULE 13G                                          Page 6 of 8
+
+Item 5.  Ownership of Five Percent or Less of a Class
+
+              N/A
+
+Item 6.  Ownership of More than Five Percent on Behalf of Another Person
+
+              Janus Capital's Managed Portfolios, set forth in Item 4 above,
+              have the right to receive all dividends from, and the proceeds
+              from the sale of, the securities held in their respective
+              accounts.
+
+              The interest of any one such person does not exceed 5% of the
+              class of securities.
+
+              These shares were acquired in the ordinary course of business,
+              and not with the purpose of changing or influencing control of
+              the Issuer.
+
+Item 7.  Identification and Classification of the Subsidiary Which
+         Acquired the Security Being Reported on by the Parent Holding
+         Company
+
+              N/A
+
+Item 8.  Identification and Classification of Members of the Group
+
+              N/A
+
+Item 9.  Notice of Dissolution of Group
+
+              N/A
+
+Item 10.      Certification
+
+              By signing below I certify that, to the best of my knowledge and
+              belief, the securities referred to above were acquired in the
+              ordinary course of business and were not acquired for the purpose
+              of and do not have the effect of changing or influencing the
+              control of the issuer of such securities and were not acquired in
+              connection with or as a participant in any transaction having
+              such purposes or effect.
+<PAGE>
+SCHEDULE 13G                                     Page 7 of 8
+
+SIGNATURES
+
+    After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete
+and correct.
+
+JANUS CAPITAL CORPORATION
+
+By  /s/  Thomas A. Early                       2/14/00
+  Thomas A. Early,                                  Date
+    Vice President and General Counsel
+
+THOMAS H. BAILEY
+
+By  /s/  Thomas A. Early                       2/14/00
+  Thomas A. Early                                   Date
+
+  Under Power of Attorney dated 11/24/98
+  On File with Schedule 13G for
+  EduTrek International, Inc. 12/9/98
+<PAGE>
+SCHEDULE 13G                                        Page 8 of 8
+
+EXHIBIT A
+
+JOINT FILING AGREEMENT
+
+  In accordance with Rule 13d-1(f) under the Securities Exchange Act of 1934,
+the persons named below agree to the joint filing on behalf of each of them
+of a Statement on Schedule 13G (including amendments thereto) with respect to
+the Common Stock of Apple Computer, Inc. and further agree that this Joint
+Filing Agreement be included as an Exhibit to such joint filings.  In
+evidence thereof, the undersigned hereby execute this Agreement as of the
+14th day of February, 2000.
+
+            JANUS CAPITAL CORPORATION
+
+            By  /s/  Thomas A. Early
+               Thomas A. Early,
+                 Vice President and General Counsel
+
+            THOMAS H. BAILEY
+
+            By  /s/  Thomas A. Early
+               Thomas A. Early
+
+               Under Power of Attorney dated 11/24/98
+               On File with Schedule 13G for
+               EduTrek International, Inc. 12/9/98
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

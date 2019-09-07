@@ -1,0 +1,513 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SbgJZEFrAf7Mp6vvf2xQ8CLoqAhVd4PNTk2B/uMnDIWqFlxV4T5JDOHdUF/zvAd6
+ EfRsUuIaPjpApvx4EOHb9g==
+
+<SEC-DOCUMENT>0000820027-97-000147.txt : 19970225
+<SEC-HEADER>0000820027-97-000147.hdr.sgml : 19970225
+ACCESSION NUMBER:		0000820027-97-000147
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19970205
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		97517894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN EXPRESS FINANCIAL ADVISORS
+		CENTRAL INDEX KEY:			0000820027
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				133180631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		IDS TOWER 10
+		STREET 2:		T33/52
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55440
+		BUSINESS PHONE:		6126718028
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IDS FINANCIAL CORP/MN/
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+January 29, 1996
+
+
+
+Fred Anderson
+Apple Computer Inc.
+1 Infinite Loop
+Cupertino, CA  95014
+
+
+RE:	Schedule 13G
+
+
+Enclosed pursuant to Rule 13d-1(b) under the Securities Exchange Act of 
+1934 is a report on Schedule 13G reporting beneficial ownership at December 
+31, 1996 by American Express Company, American Express Financial 
+Corporation and IDS Life Capital Resource Fund in common stock of Apple 
+Computer Inc.
+
+
+Sincerely,
+
+
+
+Steve Turbenson
+Director - External Reports and Tax
+
+
+
+
+Enclosure
+
+
+
+
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D. C. 20549
+
+SCHEDULE 13G
+
+
+Under the Securities and Exchange Act of 1934
+
+
+
+Apple Computer Inc.
+(Name of Issuer)
+
+
+
+Common Stock
+(Title of Class of Securities)
+
+
+
+037833-10-0
+(CUSIP Number)
+
+
+
+
+
+
+The information required in the remainder of this cover page (except any items 
+to which the form provides a cross-reference) shall not be deemed to be "filed"
+for the purpose of Section 18 of the Securities Exchange Act of 1934 ("Act") or
+otherwise subject to the liabilities of that section of the Act but shall be 
+subject to all other provisions of the Act.
+
+
+
+
+
+
+
+
+
+CUSIP NO.   037833-10-0
+
+
+1)	Name of Reporting Person	American Express Company
+
+	S.S. or I.R.S. Identification	IRS No. 13-4922250
+	No. of Above Person	
+
+
+2)	Check the Appropriate Box		(a)		
+	if a Member of a Group		(b) X - Joint Filing	
+
+
+3)	SEC Use Only
+
+
+4)	Citizenship or Place of Organization		New York
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON WITH
+	(5)	Sole Voting Power	-0-		
+	(6)	Shared Voting Power	15,915	
+	(7)	Sole Dispositive Power	-0-		
+	(8)	Shared Dispositive Power		10,765,915	
+______________________________________________________________________
+9)	Aggregate Amount Beneficially
+	Owned by Each Reporting Person		10,765,915		
+
+
+10)	Check if the Aggregate Amount in
+	Row (9) Excludes Certain Shares		Not Applicable
+
+
+11)	Percent of Class Represented by
+	Amount In Row (9)				8.7%
+
+
+12)	Type of Reporting Person		CO, HC
+
+
+
+
+
+
+CUSIP NO.  037833-10-0
+
+
+1)	Name of Reporting Person	American Express Financial Corporation
+
+	S.S. or I.R.S. Identification	IRS No. 13-3180631
+	No. of Above Person	
+
+
+2)	Check the Appropriate Box		(a)		
+	if a Member of a Group		(b) X - Joint Filing	
+
+
+3)	SEC Use Only
+
+
+4)	Citizenship or Place of Organization		Delaware
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING 
+PERSON WITH
+	(5)	Sole Voting Power				-0-		
+	(6)	Shared Voting Power			15,915	
+	(7)	Sole Dispositive Power			-0-		
+	(8)	Shared Dispositive Power		10,765,915	
+
+
+9)	Aggregate Amount Beneficially
+	Owned by Each Reporting Person		10,765,915
+
+
+10)	Check if the Aggregate Amount in
+	Row (9) Excludes Certain Shares		Not Applicable
+
+
+11)	Percent of Class Represented by
+	Amount In Row (9)				8.7%
+
+
+12)	Type of Reporting Person		CO, IA
+
+
+
+
+CUSIP NO   037833-10-0
+
+
+1)	Name of Reporting Person		IDS Life Capital Resource Fund
+	S.S. or I.R.S. Identification		IRS No. 41-1409539
+	No. of Above Person
+
+
+2)	Check the Appropriate Box		(a)		
+	if a Member of a Group		(b) X - Joint Filing	
+
+
+3)	SEC Use Only
+
+
+4)	Citizenship or Place of Organization		Minnesota
+
+
+NUMBER OF SHARES BENEFICIALLY OWNED BY EACH REPORTING
+PERSON WITH
+	(5)	Sole Voting Power		10,750,000	
+	(6)	Shared Voting Power		-0-		
+	(7)	Sole Dispositive Power		-0-		
+	(8)	Shared Dispositive Power		10,750,000	
+
+
+9)	Aggregate Amount Beneficially
+	Owned by Each Reporting Person		10,750,000
+
+
+10)	Check if the Aggregate Amount in
+	Row (9) Excludes Certain Shares		Not Applicable
+
+
+11)	Percent of Class Represented by
+	Amount In Row (9)			8.7%
+
+
+12)	Type of Reporting Person		CO, IC
+
+
+
+1(a)		Name of Issuer:		Apple Computer Inc.
+
+1(b)		Address of Issuer's Principal		1 Infinite Loop
+		Executive Offices:		Cupertino, CA  95014
+
+2(a)		Name of Person Filing:		American Express Company
+				American Express Financial Corporation
+
+
+2(b)		Address of Principal Business Office:		American Express Company
+				American Express Tower
+				200 Vesey Street
+				New York, NY  10285
+
+				American Express Financial Advisors Inc.	
+				IDS Tower 10
+				Minneapolis, MN  55440
+
+				IDS Life Capital Resource Fund
+				IDS Tower 10
+				Minneapolis, MN  55440
+
+2(c)		Citizenship:			See Item 4 of Cover Page
+
+2(d)		Title of Class of Securities:			Common Stock
+
+2(e)		Cusip Number:				037833-10-0
+
+3		Information if statement is filed pursuant to Rules 13d-1(b) or 13d-2(b):
+
+American Express Company, one of the persons filing this statement, is a 
+Parent Holding Company in accordance with Rule 13d-1(b)(ii)(G).
+
+American Express Financial Corporation, one of the persons filing this 
+statement, is an Investment Advisor registered under section 203 of the 
+Investment Advisors Act of 1940.
+
+IDS Life Capital Resource Fund, one of the persons filing this statement,
+is an Investment Company registered under section 8 of the Investment
+Company Act.
+
+
+4(a)		Amount Beneficially Owned as of December 31, 1996:   See Item 9 of 
+		Cover Pages
+
+4(b)		Percent of Class:    See Item 11 of Cover Pages
+
+4(c)		Number of Shares as to which such person has:
+(i)	Sole power to vote or to direct the vote:   See Item 5 of Cover Pages
+		(ii)	Shared power to vote or direct the vote:   See Item 6 of Cover Pages
+		(iii)	Sole power to dispose or to direct the disposition of:   See Item 7 
+			of Cover Pages
+		(iv)	Shared power to dispose or to direct the disposition of:   See Item 8 
+			of Cover Pages
+
+
+5		Ownership of 5% or Less of a Class:
+If this statement is being filed to report the fact as of the date hereof the 
+reporting person has ceased to be the beneficial owner of more than five 
+percent of the class of securities, check the following  (  ).
+
+6		Ownership of more than 5% on Behalf of Another Person:
+
+					Not Applicable
+
+7		Identification and Classification of the Subsidiary Which Acquired the 		
+		Security Being Reported on by the Parent Holding Company:
+
+					See Exhibit I
+
+8		Identification and Classification of Members of the Group:
+
+					Not Applicable
+
+9		Notice of Dissolution of Group:
+
+					Not Applicable
+
+10		Certification:
+
+    By signing below I certify that, to the best of my knowledge and belief, 
+the securities referred to above were acquired in the ordinary course of 
+business and were not acquired for the purpose of and do not have the effect of
+changing or influencing the control of the issuer of such securities and were 
+not acquired in connection with or as a participant in any transaction having 
+such purposes or effect.
+
+    After reasonable inquiry and to the best of my knowledge and belief, I 
+certify that the information set forth in this statement is true, complete and 
+correct.
+
+
+						American Express Financial Corporation
+
+
+
+Dated:	December 31, 1996			By			
+							Signature
+
+
+							Steve Turbenson
+							Director - External Reports
+							and Tax
+							Name/Title
+
+							Telephone:	(612)  671-2059
+
+
+
+Exhibit Index
+
+
+Exhibit I	Identification and Classification of the Subsidiary 	which 
+	acquired the Security Being Reported on by 	the Parent 
+	Holding Company.
+
+Exhibit II	Statement of American Express Company
+
+Exhibit III	Statement of American Express Financial Corporation
+
+Exhibit IV	Statement of IDS Life Capital Resource Fund
+
+
+
+Exhibit  I
+
+to
+
+Schedule  13G
+
+	One of the persons filing this statement is a parent holding company.  
+The relevant subsidiary, American Express Financial Corporation, a 
+Delaware Corporation, is registered as investment advisor under section 203 
+of the Investment Advisors Act of 1940.
+
+
+EXHIBIT II
+
+to
+
+SCHEDULE 13G
+
+under the
+
+Securities Exchange Act of 1934
+
+American Express Company, American Express Tower, World Financial 
+Center, New York, New York disclaims beneficial ownership of the 
+securities referred to in the Schedule 13G to which this exhibit is attached, 
+and the filing of this Schedule 13G shall not be construed as an admission 
+that American Express Company is, for the purpose of Section 13(d) or 
+13(g) of the Securities Exchange Act of 1934, the beneficial owner of any 
+securities covered by this Schedule 13G.
+
+Pursuant to Rule 13d-1(f) (1) and subject to the preceding disclaimer, 
+American Express Company affirms it is individually eligible to use 
+Schedule 13G and agrees that this Schedule is filed on its behalf, and 
+authorizes the President, any Vice President, the comptroller, the 
+Secretary, the General Counsel, any Associate General Counsel or any 
+Counsel, each with power to act singly, of each subsidiary of American 
+Express Company making this filing to sign this statement on behalf of 
+American Express Company.
+
+
+					AMERICAN EXPRESS COMPANY
+
+
+
+					By:____________________________
+					Name:	Stephen P. Norman
+					Title:	Secretary
+
+
+
+
+Exhibit  III
+
+to
+
+Schedule  13G
+
+Under  the
+
+Securities Exchange Act of 1934
+
+
+	Pursuant to Rule 13d-1(f)(1), American Express Financial Corporation 
+affirms that it is individually eligible to use Schedule 13G and agrees that 
+this Schedule is filed in its behalf.
+
+
+	American Express Financial Corporation
+
+
+	By:					
+	Steve Turbenson
+						 Director - External Reports
+						 and Tax
+
+
+Exhibit  IV
+
+to
+
+Schedule  13G
+
+Under  the
+
+Securities Exchange Act of 1934
+
+
+	Pursuant to Rule 13d-1(f)(1), IDS Life Capital Resource Fund affirms 
+that it is individually eligible to use Schedule 13G and agrees that this 
+Schedule is filed on it behalf.
+
+
+					IDS Life Capital Resource Fund
+
+
+
+					By:					
+						Leslie L. Ogg
+						Vice President and General Counsel
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

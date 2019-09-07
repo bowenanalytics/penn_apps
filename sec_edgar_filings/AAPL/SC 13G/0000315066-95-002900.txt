@@ -1,0 +1,407 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ ltr5+X2NHAN0Dv1sCc0DFpZPBlta18pWjXdhlwNQsSA1zj+V50VEAJ3vdCxLIqdj
+ xHPwkgIAR5H1fIL+2+AdsQ==
+
+<IMS-DOCUMENT>0000315066-95-002900.txt : 19950710<IMS-HEADER>0000315066-95-002900.hdr.sgml : 19950710
+ACCESSION NUMBER:		0000315066-95-002900
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19950707
+SROS:			NONE
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		95552486
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20525 MARIANI AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FMR CORP
+		CENTRAL INDEX KEY:			0000315066
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 0000 [0000]
+		IRS NUMBER:				161144965
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		82 DEVONSHIRE ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6175706339
+
+	MAIL ADDRESS:	
+		STREET 1:		82 DEVONSHIRE STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>SCHEDULE 13G - 7-10-95 - APPLE COMPUTER INCORPORATED
+<TEXT>
+  
+ 
+ 
+SCHEDULE 13G  
+  
+Amendment No.   
+Apple Computer Incorporated  
+Common Stock  
+Cusip # 037833100  
+Filing Fee: Yes  
+ 
+ 
+Cusip # 037833100  
+Item 1:	Reporting Person - FMR Corp. - (Tax ID:  04-2507163)  
+Item 4:	Commonwealth of Massachusetts  
+Item 5:	167,400  
+Item 6:	None  
+Item 7:	13,288,342  
+Item 8:	None  
+Item 9:	13,288,342  
+Item 11:	10.97%  
+Item 12:	HC   
+  
+  
+ 
+ 
+Cusip # 037833100  
+Item 1:	Reporting Person - Edward C. Johnson 3d - (Tax ID:  ###-##-####)  
+Item 4:	United States of America  
+Item 5:	None  
+Item 6:	None  
+Item 7:	13,288,342  
+Item 8:	None  
+Item 9:	13,288,342  
+Item 11:	10.97%  
+Item 12:	IN   
+  
+  
+ 
+ 
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS  
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)  
+  
+  
+Item 1(a).	Name of Issuer:  
+  
+		Apple Computer Incorporated  
+  
+Item 1(b).	Name of Issuer's Principal Executive Offices:  
+  
+		20525 Mariani Avenue   
+		Cupertino, CA   95014-6299  
+  
+Item 2(a).	Name of Person Filing:   
+  
+		FMR Corp.  
+  
+Item 2(b).	Address or Principal Business Office or, if None, Residence:  
+  
+		82 Devonshire Street, Boston, Massachusetts  02109  
+  
+Item 2(c).	Citizenship:  
+  
+		Not applicable  
+  
+Item 2(d).	Title of Class of Securities:  
+  
+		Common Stock  
+  
+Item 2(e).	CUSIP Number:    
+  
+		037833100  
+  
+Item 3.	This statement is filed pursuant to Rule 13d-1(b) or 13d-2(b) and 
+the  
+person filing, FMR Corp., is a parent holding company in accordance  
+with Section 240.13d-1(b)(ii)(G).  (Note:  See Item 7).  
+  
+Item 4.	Ownership  
+  
+	(a)	Amount Beneficially Owned: 
+	13,288,342  
+  
+	(b)	Percent of Class: 
+	10.97%  
+  
+	(c)	Number of shares as to which such person has:    
+  
+	(i)	sole power to vote or to direct the vote: 
+	167,400  
+  
+	(ii)	shared power to vote or to direct the vote: 
+	None  
+  
+	(iii)	sole power to dispose or to direct the disposition of: 
+	13,288,342  
+  
+	(iv)	shared power to dispose or to direct the disposition of: 
+	None  
+  
+  
+ 
+ 
+Item 5.	Ownership of Five Percent or Less of a Class.  
+  
+	Not applicable.  
+  
+Item 6.	Ownership of More than Five Percent on Behalf of Another Person.  
+  
+	Various persons have the right to receive or the power to  
+direct the receipt of dividends from, or the proceeds from the  
+sale of, the common stock of Apple Computer Incorporated.  The  
+interest of one person, Fidelity Magellan Fund, an investment  
+company registered under the Investment Company Act of 1940, in  
+the common stock of Apple Computer Incorporated, amounted to  
+6,338,600 shares or 5.23% of the total outstanding common stock  
+at June 30, 1995.    
+  
+Item 7.	Identification and Classification of the Subsidiary Which Acquired  
+the Security Being Reported on By the Parent Holding Company.  
+  
+	See attached Exhibit(s) A, B, and C.  
+  
+Item 8.	Identification and Classification of Members of the Group.  
+  
+	Not applicable, see attached Exhibit A.   
+  
+Item 9.	Notice of Dissolution of Group.  
+  
+	Not applicable.  
+ 
+ 
+Item 10.	Certification.  
+  
+	By signing below I certify that, to the best of my knowledge  
+and belief, the securities referred to above were acquired in  
+the ordinary course of business and were not acquired for the  
+purpose of and do not have the effect of changing or  
+influencing the control of the issuer of such securities and  
+were not acquired in connection with or as a participant in any  
+transaction having such purpose or effect.  
+  
+  
+Signature  
+  
+	After reasonable inquiry and to the best of my knowledge and  
+belief, I certify that the information set forth in this  
+Schedule 13G in connection with FMR Corp's beneficial ownership  
+of the common stock of Apple Computer Incorporated at June 30,  
+1995 is true, complete and correct.   
+  
+  
+  
+	July 7, 1995	  
+Date  
+  
+  
+  
+	/s/Arthur S. Loring  
+Signature  
+  
+  
+  
+	Arthur S. Loring, Vice  
+President	  
+Name/Title  
+  
+  
+ 
+ 
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS  
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)  
+  
+	Pursuant to the instructions in Item 7 of Schedule 13G, Fidelity  
+Management & Research Company ("Fidelity"), 82 Devonshire Street, Boston,  
+Massachusetts 02109, a wholly-owned subsidiary of FMR Corp. and an investment  
+adviser registered under Section 203 of the Investment Advisers Act of 1940,  
+is the beneficial owner of 13,076,742 shares or 10.79% of the common stock  
+outstanding of Apple Computer Incorporated ("the Company") as a result of  
+acting as investment adviser to several investment companies registered under  
+Section 8 of the Investment Company Act of 1940.    
+  
+	The ownership of one investment company, Fidelity Magellan Fund, 
+amounted  
+to 6,338,600 shares or 5.23% of the common stock outstanding.  Fidelity  
+Magellan Fund has its principal business office at 82 Devonshire Street,  
+Boston, Massachusetts 02109.    
+  
+	Edward C. Johnson 3d, FMR Corp., through its control of Fidelity, and 
+the  
+Funds each has sole power to dispose of the 13,076,742 shares owned by the  
+Funds.  
+  
+	Neither FMR Corp. nor Edward C. Johnson 3d, Chairman of FMR Corp., has  
+the sole power to vote or direct the voting of the shares owned directly by  
+the Fidelity Funds, which power resides with the Funds' Boards of Trustees.   
+Fidelity carries out the voting of the shares under written guidelines  
+established by the Funds' Boards of Trustees.  
+  
+	Fidelity Management Trust Company, 82 Devonshire Street, Boston,  
+Massachusetts 02109, a wholly-owned subsidiary of FMR Corp. and a bank as  
+defined in Section 3(a)(6) of the Securities Exchange Act of 1934, is the  
+beneficial owner of 112,600 shares or 0.09% of the common stock outstanding of  
+the Company as a result of its serving as investment manager of the  
+institutional account(s).    
+  
+	Edward C. Johnson 3d and FMR Corp., through its control of Fidelity  
+Management Trust Company, has sole dispositive power over 112,600 shares and  
+sole power to vote or to direct the voting of 68,400 shares, and no power to  
+vote or to direct the voting of 44,200 Shares of common stock owned by the  
+institutional account(s) as reported above.  
+  
+	Edward C. Johnson 3d and Abigail P. Johnson each own 24.9% of the  
+outstanding voting common stock of FMR Corp.  Mr. Johnson 3d is Chairman of  
+FMR Corp.  Various Johnson family members and trusts for the benefit of  
+Johnson family members own FMR Corp. voting common stock.  These Johnson  
+family members, through their ownership of voting common stock and the  
+execution of a family shareholders' voting agreement, form a controlling group  
+with respect to FMR Corp.  
+  
+	Fidelity International Limited, Pembroke Hall, 42 Crowlane, Hamilton,  
+Bermuda, and various foreign-based subsidiaries provide investment advisory  
+and management services to a number of non-U.S. investment companies (the  
+"International Funds") and certain institutional investors.  Fidelity  
+International Limited is the beneficial owner of 99,000 shares or 0.08% of the  
+common stock outstanding of the Company.  Additional information with respect  
+to the beneficial ownership of Fidelity International Limited is shown on  
+Exhibit B, page 9.  
+ 
+ 
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS  
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)  
+  
+  
+	Pursuant to instructions in Item 7 of Schedule 13G, this Exhibit has 
+been  
+prepared  to identify Fidelity International Limited, Pembroke Hall, 42 Crow  
+Lane, Hamilton, Bermuda, a Bermudian joint stock company incorporated for an  
+unlimited duration by private act of the Bermuda Legislature (FIL) and an  
+investment adviser to various investment companies (the "International Funds")  
+and certain institutional investors, as a beneficial owner of the 99,000  
+shares or 0.08% of the common stock outstanding of Apple Computer  
+Incorporated.  
+  
+	Prior to June 30, 1980, FIL was a majority-owned subsidiary of Fidelity  
+Management & Research Company (Fidelity), a wholly-owned subsidiary of FMR  
+Corp.  On that date, the shares of FIL held by Fidelity were distributed, as a  
+dividend,  to the shareholders of FMR Corp.  FIL currently operates as an  
+entity independent of FMR Corp. and Fidelity.  The International Funds and  
+FIL's other clients, with the exception of Fidelity and an affiliated company  
+of Fidelity, are non-U.S. entities.  
+  
+	A partnership controlled by Edward C. Johnson 3d and members of his  
+family owns shares of FIL voting stock with the right to cast approximately  
+47.22% of the total votes which may be cast by all holders of FIL voting  
+stock.  Mr. Johnson 3d is Chairman of FMR Corp. and FIL.  FMR Corp. and FIL  
+are separate and independent corporate entities.  FMR Corp. and FIL are  
+managed independently and their Boards of Directors are generally composed of  
+different individuals.  Other than when one serves as a subadviser to the  
+other, their investment decisions are made independently, and their clients  
+are different organizations.  
+  
+	FMR Corp. and FIL are of the view that they are not acting as a "group"  
+for purposes of Section 13(d) under the Securities Exchange Act of 1934 (the  
+"1934" Act) and that they are not otherwise required to attribute to each  
+other the "beneficial ownership" of securities "beneficially owned" by the  
+other corporation within the meaning of Rule 13d-3 promulgated under the 1934  
+Act.  Therefore, they are of the view that the shares held by the other  
+corporation need not be aggregated for purposes of Section 13(d). However, FMR  
+Corp. is making this filing on a voluntary basis as if all of the shares are  
+beneficially owned by FMR Corp. and FIL on a joint basis.  
+  
+	FIL may continue to have the International Funds or other accounts  
+purchase shares subject to a number of factors, including, among others, the  
+availability of shares for sale at what FIL considers to be reasonable prices  
+and other investment opportunities that may be available to the International  
+Funds.  
+  
+	FIL intends to review continuously the equity position of the  
+International Funds and other accounts in the Company.  Depending upon its  
+future evaluations of the business and prospects of the Company and upon other  
+developments, including, but not limited to, general economic and business  
+conditions and money market and stock market conditions, FIL may determine to  
+cease making additional purchases of shares or to increase or decrease the  
+equity interest in the Company by acquiring additional shares, or by disposing  
+of all or a portion of the shares.  
+  
+	FIL does not have a present plan or proposal which relates to or would  
+result in (i) an extraordinary corporate transaction, such as a merger,  
+reorganization, liquidation, or sale or transfer of a material amount of  
+assets involving the Company or any of its subsidiaries, (ii) any change in  
+the Company's present Board of Directors or management, (iii) any material  
+changes in the Company's present capitalization or dividend policy or any  
+other material change in the Company's business or corporate structure, (iv)  
+any change in the Company's charter or by-laws, or (v) the Company's common  
+stock becoming eligible for termination of its registration pursuant to  
+Section 12(g)(4) of the 1934 Act.  
+  
+	FIL has the sole power to vote and the sole power to dispose of 99,000  
+shares.    
+ 
+ 
+SCHEDULE 13G - TO BE INCLUDED IN STATEMENTS  
+FILED PURSUANT TO RULE 13d-1(b) or 13d-2(b)  
+  
+RULE 13d-1(f)(1)  AGREEMENT  
+  
+	The undersigned persons, on July 7, 1995, agree and consent to the joint  
+filing on their behalf of this Schedule 13G in connection with their  
+beneficial ownership of the common stock of Apple Computer Incorporated at  
+June 30, 1995.  
+  
+	FMR Corp.  
+	By	/s/Arthur S. Loring  
+Arthur S. Loring 
+Vice President - Legal  
+	Edward C. Johnson 3d  
+	By	/s/Arthur S. Loring  
+Arthur S. Loring 
+Under Power of Attorney dated  
+5/17/89 
+On File with Schedule 13G for 
+Airborne Freight Corp. 9/10/91  
+	Fidelity Management & Research Company  
+	By	/s/Arthur S. Loring  
+Arthur S. Loring 
+Sr. V.P. and General Counsel  
+	Fidelity Magellan Fund  
+	By	/s/Arthur S. Loring  
+Arthur S. Loring 
+Secretary  
+ 
+</TEXT> 
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

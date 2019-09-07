@@ -1,0 +1,329 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SDzsKGxc1f1aui9w93CuEmqaJC9jpQQ88CZiQzYZ7DV/xi1qtqIS5QQlq8Uxbz9p
+ vZi4G7CqW5OflI3eUha1Zg==
+
+<SEC-DOCUMENT>0000950128-99-000340.txt : 19990208
+<SEC-HEADER>0000950128-99-000340.hdr.sgml : 19990208
+ACCESSION NUMBER:		0000950128-99-000340
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19990205
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		99521857
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MELLON BANK CORP
+		CENTRAL INDEX KEY:			0000064782
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATIONAL COMMERCIAL BANKS [6021]
+		IRS NUMBER:				251233834
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MELLON BANK CTR
+		STREET 2:		500 GRANT ST
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258-0001
+		BUSINESS PHONE:		4122345000
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MELLON NATIONAL CORP
+		DATE OF NAME CHANGE:	19841014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<DESCRIPTION>APPLE COMPUTER INC
+<TEXT>
+
+<PAGE>   1
+
+                     SECURITIES AND EXCHANGE COMMISSION
+
+                           Washington, D.C.  20549
+
+                                SCHEDULE 13G
+
+                  Under the Securities Exchange Act of 1934
+
+                              (Amendment No.  )
+
+NAME OF ISSUER: Apple Computer Inc                 
+
+TITLE OF CLASS OF SECURITIES: Common Stock    
+
+CUSIP NUMBER: 037833100                   
+
+CUSIP NO. 037833100                       
+
+(1)     Names of Reporting Persons                      MELLON BANK CORPORATION
+        SS or IRS Identification Nos. Of Above Person   IRS No. 25-1233834
+
+(2)     Check the Appropriate Box if a Member of a Group (See Instructions) 
+                                                        (a)  (   )   (b)  (   )
+
+(3)     SEC Use Only
+
+(4)     Citizenship or Place of Organization            United States
+
+Number of Shares          (5)     Sole Voting Power             5,081,103
+Beneficially            
+Owned by Each             (6)     Shared Voting Power              97,357
+Reporting Person
+With                      (7)     Sole Dispositive Power        8,355,159
+
+                          (8)     Shared Dispositive Power        193,445
+
+(9)     Aggregate Amount Beneficially Owned by Each Reporting Person
+                                                                8,760,950
+
+(10)    Check if the Aggregate Amount in Row (9) Excludes Certain
+        Shares (See Instructions)                                   (   )
+
+(11)    Percent of Class Represented by Amount in Row (9)            6.47 
+
+(12)    Type of Reporting Person (See Instructions)                    HC
+<PAGE>   2
+                      SECURITIES AND EXCHANGE COMMISSION
+                           Washington, D.C.  20549
+                                      
+                                 SCHEDULE 13G
+               (Under the Securities and Exchange Act of 1934)
+
+Item 1(a)   Name of Issuer: Apple Computer Inc
+
+Item 1(b)   Address of Issuer's Principal Executive Offices:
+                                                 One Infinite Loop          
+                                                 Cupertino, CA 95014       
+
+Item 2(a)   Name of Person Filing:   Mellon Bank Corporation and any other 
+                                     reporting person(s) identified on the 
+                                     second part of the cover page(s).
+
+Item 2(b)   Address of Principal Business Office, or if None, Residence: 
+                                                 c/o Mellon Bank Corporation
+                                                 One Mellon Bank Center
+                                                 Pittsburgh, Pennsylvania 15258
+                                                 (for all reporting persons)
+
+Item 2(c)   Citizenship:                          United States
+
+Item 2(d)   Title of Class of Securities:         Common Stock
+
+Item 2(e)   CUSIP Number: 037833100                         
+
+Item 3      See Item 12 of cover page(s) ("Type of Reporting
+            Person") for each reporting person.
+
+                BK =  Bank as defined in Section 3(a)(6) of the Act
+
+                IV =  Investment Company registered under Section 8 of the
+                      Investment Company Act
+
+                IA =  Investment Adviser registered under Section 203 of the
+                      Investment Advisers Act of 1940
+
+                EP =  Employee Benefit Plan, Pension Fund which is subject to
+                      the provisions of the Employee Retirement Income 
+                      Security Act of 1974 or Endowment Fund; see 
+                      Section 240.13-d(1)(b)(1)(ii)(F)
+
+                HC =  Parent Holding Company, in accordance with Section
+                      240.13-d(1)(b)(1)(ii)(G)
+
+Item 4   Ownership:   See Items 5 through 9 and 11 of cover page(s)
+                      as to each reporting person.
+
+The amount beneficially owned includes, where appropriate, securities
+not outstanding which are subject to options, warrants, rights or
+conversion privileges that are exercisable within 60 days.  The filing
+of this Schedule 13G shall not be construed as an admission that
+Mellon Bank Corporation, or its direct or indirect subsidiaries,
+including Mellon Bank, N.A., are for the purposes of Section 13(d) or
+13(g) of the Act, the beneficial owners of any securities covered by
+this Schedule 13G.
+
+The following information applies if checked:   (   )   Mellon Bank, N.A. is the
+trustee of the issuer's employee benefit plan (the "Plan"), which is subject to
+ERISA.  The securities reported include all shares held of record by Mellon
+Bank, N.A. as trustee of the Plan which have not been allocated to the
+individual accounts of employee participants in the Plan. The reporting person,
+however, disclaims beneficial ownership of all shares that have been allocated
+to the individual accounts of employee participants in the Plan for which
+directions have been received and followed.
+
+Item 5   Ownership of Five Percent or Less of a Class:   If this
+statement is being filed to report the fact that as of the date hereof
+the reporting person has ceased to be the beneficial owner of more
+than five percent of the class of securities, check the following  (   )
+
+Item 6   Ownership of More than Five Percent on Behalf of Another
+Person:   All of the securities are beneficially owned by Mellon Bank
+Corporation and direct or indirect subsidiaries in their various
+fiduciary capacities.  As a result, another entity in every instance
+is entitled to dividends or proceeds of sale.  The number of
+individual accounts holding an interest of 5% or more is ( 0 ).
+
+
+<PAGE>   3
+
+
+Item 7   Identification and Classification of the Subsidiary Which Acquired 
+         the Security Being Reported by the Parent Holding Company:    
+         See Exhibit I.
+
+Item 8   Identification and Classification of Members of the Group:     N/A
+
+Item 9   Notice of Dissolution of Group:                                N/A
+
+Item 10   Certification:   By signing below I certify that, to the
+best of my knowledge and belief, the securities referred to above were
+acquired in the ordinary course of business and were not acquired for
+the purpose of and do not have the effect of changing or influencing
+the control of the issuer of such securities and were not acquired in
+connection with or as a participant in any transaction having such
+purposes or effect.
+<PAGE>   4
+SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief,
+I certify that the information set forth in this statement is true,
+complete and correct.  This filing is signed by Mellon Bank
+Corporation on behalf of all reporting entities pursuant to Rule
+13d-1(f)(1) promulgated under the Securities and Exchange Act of 1934,
+as amended.
+
+Date: January 26, 1999
+
+MELLON BANK CORPORATION
+
+                                                                            
+By:   /s/ REGINA D. STOVER
+    ------------------------
+      Regina D. Stover
+      Senior Vice President, 
+      Mellon Bank, N.A.
+      Attorney-In-Fact for 
+      Mellon Bank Corporation
+<PAGE>   5
+        
+                                   EXHIBIT I
+
+
+The shares reported on the attached Schedule 13G are beneficially owned by the
+following direct or indirect subsidiaries of Mellon Bank Corporation, as 
+marked (X):
+
+
+(A) The Item 3 classification of each of the subsidiaries listed below is 
+"Item 3(b) Bank as defined in Section 3(a)(6) of the Act."
+
+        ( X )   Boston Safe Deposit and Trust Company
+        ( X )   Mellon Bank (Delaware) National Association
+        (   )   Mellon Bank (MD)
+        ( X )   Mellon Bank, N.A. (also parent holding company of the Dreyfus
+                Corporation and Mellon Equity Associates)
+        (   )   Mellon, F.S.B.
+        ( X )   Mellon Trust of California
+        ( X )   Mellon Trust Florida
+        ( X )   Mellon Trust of New York
+
+(B) The Item 3 classification of each of the subsidiaries listed below is 
+"Item 3(e) Investment Advisor registered under Section 203 of the Investment 
+Advisers Act of 1940."
+
+        (   )   Boston Safe Advisors
+        (   )   Dreyfus Investment Advisors, Inc.
+        ( X )   Founders Asset Management LLC
+        ( X )   Franklin Portfolio Associates Trust
+        ( X )   Laurel Capital Advisors
+        ( X )   Mellon Capital Management Corporation
+        ( X )   Mellon Equity Associates
+        (   )   Newton Asset Management Limited
+        (   )   Newton Capital Management Limited
+        (   )   Newton Fund Managers Limited
+        (   )   Newton International Investment Management Limited
+        (   )   Newton Investment (IOM) Management Limited
+        (   )   Newton Investment Management (Guernsey) Limited
+        (   )   Newton Investment Management Limited
+        (   )   Newton Management (Asia) Pte, Limited
+        (   )   Royal Bank of Scotland Portfolio Management Limited
+        (   )   Royal Bank of Scotland Unit Trust Management Limited
+        (   )   Stewart Newton Fund Management (Mauritius) Limited
+        (   )   Sundaram Newton Asset Management Pte Co, Ltd
+        ( X )   The Dreyfus Corporation (also parent holding company of Dreyfus 
+                Investment Advisors, Inc.)
+        ( X )   The Boston Company Asset Management, Inc.
+        (   )   Wellington BES Limited
+
+(C) The Item 3 classification of each of the legal entities listed below is
+"Item 3(g) Parent Holdings Company, in accordance with Section
+240.13d-I(b)(ii)(G)."
+
+        ( X )   Boston Group Holdings, Inc. (parent holding company of The
+                Boston Company, Inc.)
+        ( X )   MBC Investment Corporation (parent holding company of Laurel
+                Capital Advisors, Franklin Portfolio Associates, Mellon Bank,
+                F.S.B. and Mellon Capital Management Corporation)
+        ( X )   Mellon Bank Corporation
+        (   )   Nepturn LLC (parent holding company of Newton Management 
+                Limited)
+        (   )   Newton Management Limited (parent holding company of all Newton 
+                entities listed in (B) above)
+        ( X )   The Boston Company, Inc. (parent holding company of Boston Safe
+                Advisors, Inc., The Boston Company Asset Management, Inc.,
+                Boston Safe Deposit and Trust Company, Mellon Trust of 
+                California, Mellon Trust of New York and Mellon Trust Florida)
+
+NOTE: ALL OF THE LEGAL ENTITIES LISTED UNDER (A) AND (B) ABOVE ARE DIRECT OR
+INDIRECT SUBSIDIARIES OF MELLON BANK CORPORATION. BENEFICIAL OWNERSHIP OF MORE
+THAN FIVE PERCENT OF THE CLASS BY ANY ONE OF THE SUBSIDIARIES OR INTERMEDIATE
+PARENT HOLDING COMPANIES LISTED ABOVE IS REPORTED ON A JOINT REPORTING PERSON
+PAGE FOR THAT SUBSIDIARY ON THE ATTACHED SCHEDULE 13G AND IS INCORPORATED IN
+THE TOTAL PERCENT OF CLASS REPORTED ON MELLON BANK CORPORATION'S REPORTING
+PERSON PAGE. (DO NOT ADD THE SHARES OR PERCENT OF CLASS REPORTED ON EACH JOINT
+REPORTING PERSON PAGE ON THE ATTACHED SCHEDULE 13G TO DETERMINE THE TOTAL
+PERCENT OF CLASS FOR MELLON BANK CORPORATION.)
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

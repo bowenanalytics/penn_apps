@@ -1,0 +1,220 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Xzk7NMlOzKoaTGXXDCmTTNNw5KQDPpNzSUd3yWZzICc51rTLO3IEHKbx4vtrIKgW
+ ip5g590o8EUUX2DzdcLq+w==
+
+<IMS-DOCUMENT>0000918983-94-000005.txt : 19940221
+<IMS-HEADER>0000918983-94-000005.hdr.sgml : 19940221
+ACCESSION NUMBER:		0000918983-94-000005
+CONFORMED SUBMISSION TYPE:	SC 13G
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		19940218
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		34
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		00000000
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20525 MARIANI AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MARKKULA ARMAS CLIFFORD
+		CENTRAL INDEX KEY:			0000918983
+		STANDARD INDUSTRIAL CLASSIFICATION:	
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		APPLE COMPUTER INC
+		STREET 2:		20525 MARIANI AVE MAIL STOP 38-I
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089346003
+
+	MAIL ADDRESS:	
+		STREET 1:		ACM INVESTMENTS
+		STREET 2:		P O BOX 620170
+		CITY:			WOODSIDE
+		STATE:			CA
+		ZIP:			94062
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<TEXT>
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C.  20549
+
+                                  SCHEDULE 13G
+                    Under the Securities Exchange Act of 1934
+
+                                (Amendment No. 4)
+
+                              APPLE COMPUTER, INC.
+                                 Name of Issuer
+
+                                  COMMON STOCK
+                          Title of Class of Securities
+
+                                  037833 10 z0
+                                  CUSIP Number
+
+1.   Name and I.R.S. Identification or S.S. No. of Reporting Person:
+
+     Restated Arlin Trust under trust dated December 12, 1990,
+     Armas Clifford Markkula, Jr. and Linda Kathryn Markkula, Trustees
+
+2.   Member of a Group:  (a)  N/A
+                    (b)  N/A
+
+3.   SEC Use Only:
+
+4.   Citizenship:  U.S.
+
+    Number of    5.  Sole Voting Power:         0
+       Shares
+ Beneficially    6.  Shared Voting Power:    5,890,33
+        Owned                                   0
+      by Each    7.  Sole Dispositive           0
+    Reporting    Power:
+       Person    8.  Shared Dispositive      5,890,33
+      with...    Power:                         0
+
+9.   Aggregate Amount Beneficially Owned by Each Reporting Person:
+
+     5,890,330
+
+10.  Aggregate Amount in Row 9. Excludes Certain Shares:
+
+     Not Applicable.
+
+11.  Percent of Class Represented by Amount in Row 9.: 5.05%
+
+12.  Type of Reporting Person:     OO  Trust
+
+Item 1(a).     Name of Issuer:
+
+          Apple Computer, Inc.
+
+Item 1(b).     Address of Issuer's Executive Offices:
+
+          20525 Mariani Avenue
+          Cupertino, California  95014
+
+Item 2(a).     Name of Person Filing:
+
+          Restated Arlin Trust under trust dated December 12, 1990, Armas
+          Clifford Markkula, Jr. and Linda Kathryn Markkula, Trustees
+
+Item 2(b).     Address of Principal Business or Residence:
+
+          c/o A.C.M. Investments
+          P.O. Box 620170
+          Woodside, California  94062
+
+Item 2(c).     Citizenship:
+
+          U.S.
+
+Item 2(d).     Title of Class of Securities:
+
+          Common Stock
+
+Item 2(e).     CUSIP Number:
+
+          037833 10 0
+
+Item 3.   Not Applicable.
+
+Item 4.   Ownership:
+
+          a.  Amount Beneficially Owned:     5,890,330
+          b.  Percent of Class:    5.05%
+          c.  Number of Shares as to which such person has:
+               i.  Sole power to vote or direct the vote:   0
+               ii.  Shared power to vote or to direct the vote:  5,890,330
+               iii.  Sole power to dispose or to direct disposition:  0
+               iv.  Shared power to dispose or to direct disposition: 5,890,330
+
+Item 5.   Ownership of Five Percent or Less of a Class:
+
+          Not Applicable.
+
+Item 6.   Ownership of More than Five Percent on behalf of Another Person:
+
+          Not Applicable.
+
+Item 7.   Identification and Classification of the Subsidiary which Acquired the
+Security being reported on by the Parent Holding Company:
+
+          Not Applicable.
+
+Item 8.   Identification and Classification of Members of the Group:
+
+          Not Applicable
+
+Item 9.   Notice of Dissolution of Group:
+
+          Not Applicable.
+
+Item 10.  Certification:
+
+          Not Applicable.
+
+                                    SIGNATURE
+
+     After reasonable inquiry and to the best of my knowledge and belief, I
+certify that the information set forth in this statement is true, complete and
+correct.
+
+                                 RESTATED ARLIN TRUST,
+                                 under trust dated
+                                 December 12, 1990
+
+
+                                 By: Armas Clifford Markkula, Jr.
+                                 Armas Clifford Markkula, Jr.
+                                 Trustee
+
+                                 By: Linda Kathryn Markkula
+                                 Linda Kathryn Markkula
+                                 Trustee
+Date:     February 10, 1994
+As of December 31, 1993
+
+
+</TEXT>
+
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

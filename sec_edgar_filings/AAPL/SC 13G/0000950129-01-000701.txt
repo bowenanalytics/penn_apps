@@ -1,0 +1,359 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ud7rb+NCacbYDQIBxlDRNMs3N0D4E7MpSgCiXLjxX4ys4r1/vkPdRr3Aq/yMlnjn
+ SHaeLLs++cYBmskNSpLj9Q==
+
+<SEC-DOCUMENT>0000950129-01-000701.txt : 20010212
+<SEC-HEADER>0000950129-01-000701.hdr.sgml : 20010212
+ACCESSION NUMBER:		0000950129-01-000701
+CONFORMED SUBMISSION TYPE:	SC 13G
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20010209
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+		SEC ACT:		
+		SEC FILE NUMBER:	005-33632
+		FILM NUMBER:		1530316
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			A I M MANAGEMENT GROUP INC /DE/
+		CENTRAL INDEX KEY:			0000911218
+		STANDARD INDUSTRIAL CLASSIFICATION:	INVESTMENT ADVICE [6282]
+		IRS NUMBER:				760528004
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13G
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11 GREENWAY PLAZA
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77046
+		BUSINESS PHONE:		7132144507
+
+	MAIL ADDRESS:	
+		STREET 1:		11 GREENWAY PLAZA
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77046
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13G
+<SEQUENCE>1
+<FILENAME>h83849mmsc13g.txt
+<DESCRIPTION>AIM MANAGEMENT GROUP INC FOR APPLE COMPUTER INC
+<TEXT>
+
+<PAGE>   1
+                                             ---------------------------------
+                                                       OMB APPROVAL
+                                             ---------------------------------
+                                             OMB Number:    3235-0145
+                                             Expires:   October 31, 2002
+                                             Estimated average burden
+                                             hours per response....14.9
+                                             ---------------------------------
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                  SCHEDULE 13G
+
+
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+                        (AMENDMENT NO. _______________)*
+
+
+                              Apple Computer, Inc.
+                              --------------------
+                                (Name of Issuer)
+
+                      Common Stock, no par value per share
+                      ------------------------------------
+                         (Title of Class of Securities)
+
+                                    037833100
+                                    ---------
+                                 (CUSIP Number)
+
+                               December 31, 2000
+                               -----------------
+             (Date of Event Which Requires Filing of this Statement)
+
+Check the appropriate box to designate the rule pursuant to which this Schedule
+is filed:
+
+[X] Rule 13d-1(b)
+[ ] Rule 13d-1(c)
+[ ] Rule 13d-1(d)
+
+*The remainder of this cover page shall be filled out for a reporting person's
+initial filing on this form with respect to the subject class of securities, and
+for any subsequent amendment containing information which would alter the
+disclosures provided in a prior cover page.
+
+
+
+The information required in the remainder of this cover page shall not be deemed
+to be "filed" for the purpose of Section 18 of the Securities Exchange Act of
+1934 ("Act") or otherwise subject to the liabilities of that section of the Act
+but shall be subject to all other provisions of the Act (however, see the
+Notes).
+
+
+
+                               Page 1 of 4 pages
+<PAGE>   2
+
+
+                                  SCHEDULE 13G
+
+
+
+CUSIP No.               037833100
+
+
+ -------------------------------------------------------------------------------
+   1.     Names of Reporting Persons.
+          I.R.S. Identification Nos. of above persons (entities only).
+          A I M Management Group Inc., on behalf of itself and its wholly-owned
+          subsidiaries, A I M Advisors, Inc. and A I M Capital Management, Inc.
+          and AIM Private Asset Management, Inc.
+
+          I.D. No. 74-1881407
+
+ -------------------------------------------------------------------------------
+   2.     Check the Appropriate Box if a Member of a Group (See Instructions)
+          (a)
+               -----------------------------------------------------------------
+          (b)
+               -----------------------------------------------------------------
+
+ -------------------------------------------------------------------------------
+   3.     SEC Use Only
+                      ----------------------------------------------------------
+
+ -------------------------------------------------------------------------------
+   4.     Citizenship or Place of Organization        Delaware
+
+ -------------------------------------------------------------------------------
+                          5.    Sole Voting Power                    20,168,808
+
+                        --------------------------------------------------------
+ Number of Shares         6.    Shared Voting Power
+ Beneficially Owned                                                  ----------
+ by Each Reporting      --------------------------------------------------------
+ Person With              7.    Sole Dispositive Power               20,168,808
+
+                        --------------------------------------------------------
+                          8.    Shared Dispositive Power
+                                                                     ----------
+ -------------------------------------------------------------------------------
+   9.     Aggregate Amount Beneficially Owned by Each Reporting
+          Person                                                     20,168,808
+
+ -------------------------------------------------------------------------------
+   10.    Check if the Aggregate Amount in Row (9) Excludes Certain Shares
+          (See Instructions)
+                              ----------------
+
+ -------------------------------------------------------------------------------
+   11.    Percent of Class Represented by Amount in Row (9)       6.0%
+
+ -------------------------------------------------------------------------------
+   12.    Type of Reporting Person (See Instructions)             HC
+
+ -------------------------------------------------------------------------------
+
+
+
+
+                               Page 2 of 4 pages
+<PAGE>   3
+
+
+                                  SCHEDULE 13G
+
+
+
+Item 1(a)     NAME OF ISSUER:
+
+              Apple Computer, Inc.
+
+Item 1(b)     ADDRESS OF ISSUER'S PRINCIPAL EXECUTIVE OFFICES:
+
+              1 Infinite Loop
+              Cupertino, CA  95014
+
+Item 2(a)     NAME OF PERSON FILING:
+
+              A I M Management Group Inc.
+
+Item 2(b)     ADDRESS OF PRINCIPAL BUSINESS OFFICE:
+
+              11 Greenway Plaza, Suite 100
+              Houston, Texas  77046
+
+Item 2(c)     CITIZENSHIP:
+
+              State of Delaware
+
+Item 2(d)     TITLE OF CLASS OF SECURITIES:
+
+              Common Stock, no par value per share
+
+Item 2(e)     CUSIP NUMBER:
+
+              037833100
+
+Item 3        TYPE OF REPORTING PERSON:
+
+              Parent Holding Company, in accordance with section
+              240.13d-1(b)(1)(ii)(G)
+
+Item 4(a)     AMOUNT BENEFICIALLY OWNED AS OF DECEMBER 31, 2000:
+
+              20,168,808
+
+Item 4(b)     PERCENT OF CLASS:
+
+              6.0%
+
+Item 4(c)     NUMBER OF SHARES AS TO WHICH THE PERSON HAS:
+
+              (i)   Sole power to vote or to direct the vote:
+                    20,168,808
+
+              (ii)  Shared power to vote or to direct the vote:
+                    N/A
+
+              (iii) Sole power to dispose or to direct the disposition of:
+                    20,168,808
+
+              (iv)  Shared power to dispose or to direct the disposition of:
+                    N/A
+
+Item 5        OWNERSHIP OF FIVE PERCENT OR LESS OF A CLASS:
+
+              N/A
+
+Item 6        OWNERSHIP OF MORE THAN FIVE PERCENT ON BEHALF OF ANOTHER PERSON:
+
+              N/A
+
+
+
+
+
+                               Page 3 of 4 pages
+<PAGE>   4
+
+Item 7        IDENTIFICATION AND CLASSIFICATION OF THE SUBSIDIARY WHICH
+              ACQUIRED THE SECURITY BEING REPORTED ON BY THE PARENT HOLDING
+              COMPANY:
+
+              A I M Advisors, Inc., A I M Capital Management, Inc. and AIM
+              Private Asset Management, Inc., Investment Advisers registered
+              under Section 203 of the Investment Advisers Act
+
+
+Item 8        IDENTIFICATION AND CLASSIFICATION OF MEMBERS OF THE GROUP:
+
+              N/A
+
+Item 9        NOTICE OF DISSOLUTION OF A GROUP:
+
+              N/A
+
+Item 10       CERTIFICATION:
+
+              By signing below I certify that, to the best of my knowledge and
+              belief, the securities referred to above were acquired and are
+              held in the ordinary course of business and were not acquired and
+              are not held for the purpose of or with the effect of changing or
+              influencing the control of the issuer of the securities and were
+              not acquired and are not held in connection with or as a
+              participant in any transaction having that purpose or effect.
+
+
+
+
+
+              SIGNATURE:
+
+              After reasonable inquiry and to the best of my knowledge and
+              belief, I certify that the information set forth in this statement
+              is true, complete and correct.
+
+
+
+                                        February 9, 2001
+                                        --------------------------------------
+                                                        Date
+
+                                        /s/ CAROL F. RELIHAN
+                                        --------------------------------------
+                                                      Signature
+
+
+                                        Carol F. Relihan
+                                        Senior Vice President,
+                                        Secretary and General Counsel
+                                        AIM Management Group Inc.
+                                        --------------------------------------
+                                                      Name/Title
+
+
+** Please call Gennie Bencze at (713) 214-7230 with questions regarding this
+filing.
+
+
+
+
+
+                               Page 4 of 4 pages
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
