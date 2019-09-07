@@ -172,11 +172,7 @@ if __name__ == '__main__':
     out_df.to_csv('/users/votta/code/penn_apps/similarity.csv')
     out_df.to_parquet('/users/votta/code/penn_apps/similarity.parquet.gzip')
 
-
-    z = 0
-
-
-
+    # Experiment with SEC data
 
     # # Initialize a downloader instance.
     # # If no argument is passed to the constructor, the package
@@ -206,7 +202,7 @@ if __name__ == '__main__':
     # # Get all SD filings for Apple
     # dl.get_sd_filings("AAPL")
 
-
+    # experiment with yfinance API
 
     # msft = yf.Ticker("MSFT")
     # # get stock info
@@ -230,5 +226,3 @@ if __name__ == '__main__':
     # # get option chain for specific expiration
     # opt = msft.option_chain('2019-09-26')
     # # data available via: opt.calls, opt.puts
-
-    z = 1
