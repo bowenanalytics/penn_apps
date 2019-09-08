@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f0e91ea-81ce-4824-b4f4-7b85f666ada3" name="Default Changelist" comment="commented code">
+    <list default="true" id="0f0e91ea-81ce-4824-b4f4-7b85f666ada3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_getter.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_getter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_getter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="172" column="17" selection-start-line="172" selection-start-column="17" selection-end-line="172" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -166,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567900309019</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commented code 2">
+      <created>1567900371323</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567900371323</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cleaned up">
+      <created>1567901247792</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567901247792</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -196,7 +209,9 @@
     <MESSAGE value="cleaned" />
     <MESSAGE value="added functionality to reference the ticker list stored in github" />
     <MESSAGE value="commented code" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented code" />
+    <MESSAGE value="commented code 2" />
+    <MESSAGE value="cleaned up" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned up" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/pandas/io/html.py">
@@ -281,8 +296,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data_getter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="172" column="17" selection-start-line="172" selection-start-column="17" selection-end-line="172" selection-end-column="17" />
+        <state relative-caret-position="162">
+          <caret line="120" column="16" lean-forward="true" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
