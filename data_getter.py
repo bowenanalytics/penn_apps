@@ -122,22 +122,11 @@ def print_random_similarity(df, docs, model):
         this_desc = df[df['ticker'] == t]['business_description'].tolist()[0]
         print(this_desc)
 
-
-
-if __name__ == '__main__':
-
-    # scrape_all()
-    df = pd.read_pickle("./test.pkl")
-    docs = generate_tagged_docs(df)
-
-    # model = Doc2Vec(docs, vector_size=30, window=5, min_count=2, workers=4)
-    # model.save(D2V_MODEL_NAME)
-
-    model = Doc2Vec.load(D2V_MODEL_NAME)
-
-    # print_random_similarity(df, docs, model)
-
-    tickers_list = df['ticker'].dropna().tolist()
+def generate_lookup_table(df, model):
+    """output a precalculated table of company-company similarities"""
+    clean_df = df.dropna()
+    clean_df = clean_df[clean_df['business_description'] != '']
+    tickers_list = clean_df['ticker'].tolist()
     static_dict = {
         'code': [], 'desc': [],
         's1': [], 's2': [], 's3': [], 's4': [], 's5': [],
@@ -150,13 +139,11 @@ if __name__ == '__main__':
 
         static_dict['code'].append(t)
         static_dict['desc'].append(df[df['ticker'] == t]['business_description'].tolist()[0])
-
         t1 = sims[0][0]
         t2 = sims[1][0]
         t3 = sims[2][0]
         t4 = sims[3][0]
         t5 = sims[4][0]
-
         static_dict['s1'].append(t1)
         static_dict['d1'].append(df[df['ticker'] == t1]['business_description'].tolist()[0])
         static_dict['s2'].append(t2)
@@ -171,6 +158,24 @@ if __name__ == '__main__':
     out_df = pd.DataFrame(static_dict, columns=static_dict.keys())
     out_df.to_csv('/users/votta/code/penn_apps/similarity.csv')
     out_df.to_parquet('/users/votta/code/penn_apps/similarity.parquet.gzip')
+
+
+if __name__ == '__main__':
+    """the rest of the model building happens here"""
+
+    # scrape_all()
+    df = pd.read_pickle("./test.pkl")
+    docs = generate_tagged_docs(df)
+
+    # model = Doc2Vec(docs, vector_size=30, window=5, min_count=2, workers=4)
+    # model.save(D2V_MODEL_NAME)
+
+    model = Doc2Vec.load(D2V_MODEL_NAME)
+    # print_random_similarity(df, docs, model)
+
+    generate_lookup_table(df, model)
+
+
 
     # Experiment with SEC data
 
